@@ -1,7 +1,8 @@
 {
   "Students":[
     {"StudentID":12345, "name":"Samuel", "Course":"IT"},
-    {"StudentID,"}
+    {"StudentID":1012, "name":"John","Course":"Computer Science"}
 
     
   ]
+}
